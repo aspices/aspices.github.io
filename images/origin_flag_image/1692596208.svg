@@ -1,0 +1,18 @@
+<svg id="Component_108_1" data-name="Component 108 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="283" height="170" viewBox="0 0 283 170">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1054" data-name="Rectangle 1054" width="283" height="170" transform="translate(1317 1503)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-1317 -1503)" clip-path="url(#clip-path)">
+    <g id="Group_2214" data-name="Group 2214" transform="translate(-298 -210)">
+      <rect id="Rectangle_1055" data-name="Rectangle 1055" width="97" height="194" transform="translate(1611 1701)" fill="#fff"/>
+      <rect id="Rectangle_1056" data-name="Rectangle 1056" width="97" height="194" transform="translate(1708 1798) rotate(-90)" fill="#fc3d32"/>
+      <rect id="Rectangle_1057" data-name="Rectangle 1057" width="97" height="194" transform="translate(1708 1895) rotate(-90)" fill="#007e3a"/>
+    </g>
+  </g>
+  <g id="Rectangle_1058" data-name="Rectangle 1058" fill="none" stroke="#707070" stroke-width="1">
+    <rect width="283" height="170" stroke="none"/>
+    <rect x="0.5" y="0.5" width="282" height="169" fill="none"/>
+  </g>
+</svg>

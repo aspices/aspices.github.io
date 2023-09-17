@@ -1,0 +1,10 @@
+@font-face {
+    font-family: myFirstFont;
+	src:url(../fonts/Avenir/avenir.woff);
+}
+
+@font-face {
+    font-family: mySecondFont;
+	src:url(../fonts/Avenir/avenir.woff);
+	font-weight: bold;
+}
