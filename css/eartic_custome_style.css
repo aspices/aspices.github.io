@@ -365,11 +365,16 @@ li.dropdown:hover > .main_nav_ul {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url("../images/hero_img8.jpg");
+	background-image: url("../images/origin_banner_image/001.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 	z-index: -1;
+}
+
+.parallax6 > .parallax6-video {
+	min-width: 100%;
+	min-height: 100%;
 }
 
 /*************Vietnam Parallax******************/
