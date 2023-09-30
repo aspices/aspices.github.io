@@ -460,7 +460,7 @@ li.dropdown:hover > .main_nav_ul {
 
 /********HOME PAGE HEXA***********/
 .hexa_set{
-	margin: 250px 0 100px 0;
+	margin: 220px 0 100px 0;
 }
 
 /* .hexa_img{
@@ -1098,7 +1098,11 @@ background-position: -24px -53px;
 
 @media (max-width: 1480px){
 
-
+}
+@media (min-width: 480px){
+	.hexa_img {
+		width: 41%;
+	}
 }
 
 /***********************NEWS*****************/
