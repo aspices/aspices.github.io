@@ -3,7 +3,7 @@ import os
 import numpy as np
 from PIL import Image
 
-IMG_PATH = '/Users/tincya/Desktop/space-play/expd/images/asp'
+IMG_PATH = '/Users/tincya/Desktop/space-play/expd/images/asp-about'
 IMG_DST_PATH = '/Users/tincya/Desktop/space-play/expd/images/asp_brand'
 
 
