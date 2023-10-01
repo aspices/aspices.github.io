@@ -546,6 +546,12 @@ li.dropdown:hover > .main_nav_ul {
 	object-position: 1% center;
 }
 
+.about_img_2 {
+	height: 734px;
+	object-fit: cover;
+	object-position: 1% center;
+}
+
 .gen_titt{
 	color: #FFF;
 	font-size: 24px;
@@ -927,7 +933,7 @@ background-position: -24px -53px;
 }
 
 .about_mid_ban{
-	background-image: url(../images/abouthero.png);
+	background-image: url(../images/asp_images/negative-space-plan-map-journey-thumb.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: cover;
@@ -1769,7 +1775,7 @@ background-position: -24px -53px;
 	}
 
 	.about_mid_ban{
-		background-image: url(../images/abouthero.png);
+		background-image: url(../images/asp_images/negative-space-plan-map-journey-thumb.jpg);
 		background-repeat: no-repeat;
 		background-position: center bottom;
 		background-size: cover;
