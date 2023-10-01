@@ -372,7 +372,7 @@ li.dropdown:hover > .main_nav_ul {
 	z-index: -1;
 }
 
-.parallax6 > .parallax6-video, .parallax2 > .parallax2-video, .parallax4 > .parallax4-video {
+.parallax6 > .parallax6-video, .parallax2 > .parallax2-video, .parallax4 > .parallax4-video, .parallax10 > .parallax10-video {
 	min-width: 100%;
 	min-height: 100%;
 }
