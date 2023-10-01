@@ -540,6 +540,12 @@ li.dropdown:hover > .main_nav_ul {
 	height: auto;
 }
 
+.about_img_1 {
+	height: 687px;
+	object-fit: cover;
+	object-position: 1% center;
+}
+
 .gen_titt{
 	color: #FFF;
 	font-size: 24px;
@@ -682,7 +688,8 @@ li.dropdown:hover > .main_nav_ul {
 }
 
 .home_mid_ban{
-	background-image: url(../images/hero-2.png);
+	/*background-image: url(../images/hero-2.png);*/
+	background-image: url(../images/asp_images/negative-space-spices.jpg);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: cover;
@@ -1971,7 +1978,8 @@ background-position: -24px -53px;
 	}
 
 	.home_mid_ban{
-		background-image: url(../images/hero-2.png);
+		/*background-image: url(../images/hero-2.png);*/
+		background-image: url(../images/asp_images/negative-space-spices.jpg);
 		background-repeat: no-repeat;
 		background-position: center bottom;
 		background-size: cover;
