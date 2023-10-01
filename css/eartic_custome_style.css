@@ -309,7 +309,7 @@ li.dropdown:hover > .main_nav_ul {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url("../images/hero_img2.jpg");
+	background-image: url("../images/origin_banner_image/asp_1_thumb.jpg");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -337,7 +337,7 @@ li.dropdown:hover > .main_nav_ul {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image: url("../images/hero_img3.jpg");
+	background-image: url("../images/origin_banner_image/hand-touch-the-tree.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -372,7 +372,7 @@ li.dropdown:hover > .main_nav_ul {
 	z-index: -1;
 }
 
-.parallax6 > .parallax6-video {
+.parallax6 > .parallax6-video, .parallax2 > .parallax2-video, .parallax4 > .parallax4-video {
 	min-width: 100%;
 	min-height: 100%;
 }
