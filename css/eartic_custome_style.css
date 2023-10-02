@@ -543,13 +543,13 @@ li.dropdown:hover > .main_nav_ul {
 .about_img_1 {
 	height: 687px;
 	object-fit: cover;
-	object-position: 1% center;
+	object-position: 0% center;
 }
 
 .about_img_2 {
 	height: 734px;
 	object-fit: cover;
-	object-position: 1% center;
+	object-position: 20% center;
 }
 
 .gen_titt{
@@ -933,7 +933,7 @@ background-position: -24px -53px;
 }
 
 .about_mid_ban{
-	background-image: url(../images/asp_images/negative-space-plan-map-journey-thumb.jpg);
+	background-image: url(../images/asp_images/clear_glass_canister_lot_on_table.png);
 	background-repeat: no-repeat;
 	background-position: center bottom;
 	background-size: cover;
@@ -1775,7 +1775,7 @@ background-position: -24px -53px;
 	}
 
 	.about_mid_ban{
-		background-image: url(../images/asp_images/negative-space-plan-map-journey-thumb.jpg);
+		background-image: url(../images/asp_images/clear_glass_canister_lot_on_table.png);
 		background-repeat: no-repeat;
 		background-position: center bottom;
 		background-size: cover;
