@@ -4,6 +4,10 @@
     "image_url": "/images/asp_images/spit-cinnamon.jpg",
     "url": "/products/split-cinnamon-premium",
     "key": "split-cinnamon-premium",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "split_cinnamon",
       "cigarette_cassia_premium",
@@ -15,6 +19,10 @@
     "image_url": "/images/asp_images/spit-cinnamon.jpg",
     "url": "/products/split-cinnamon",
     "key": "split-cinnamon",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "split_cinnamon_premium",
       "cigarette_cassia_premium",
@@ -26,6 +34,10 @@
     "image_url": "/images/asp_images/cigarette-cassia.jpg",
     "url": "/products/cigarette-cassia-premium",
     "key": "cigarette-cassia-premium",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "split_cinnamon",
       "split_cinnamon_premium",
@@ -37,6 +49,10 @@
     "image_url": "/images/asp_images/cigarette-cassia.jpg",
     "url": "/products/cigarette-cassia",
     "key": "cigarette-cassia",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "split_cinnamon",
       "split_cinnamon_premium",
@@ -48,6 +64,10 @@
     "image_url": "/images/asp_images/cynamon-kora.jpg",
     "url": "/products/broken-cinnamon",
     "key": "broken-cinnamon",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "cinnamon_powder",
       "cigarette_cassia_premium",
@@ -59,6 +79,10 @@
     "image_url": "/images/asp_images/cinnamon_powder.png",
     "url": "/products/cinnamon-powder",
     "key": "cinnamon-powder",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "broken_cinnamon",
       "cigarette_cassia_premium",
@@ -70,6 +94,10 @@
     "image_url": "/images/asp_images/autumn_anise.jpg",
     "url": "/products/autumn-star-anise",
     "key": "autumn-star-anise",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "spring_star_anise",
       "broken_star_anise"
@@ -80,6 +108,10 @@
     "image_url": "/images/asp_images/spring_anise.jpg",
     "url": "/products/spring-star-anise",
     "key": "spring-star-anise",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "autumn_star_anise",
       "broken_star_anise"
@@ -90,6 +122,10 @@
     "image_url": "/images/asp_images/broken-star-anise.jpg",
     "url": "/products/broken-star-anise",
     "key": "broken-star-anise",
+    "image_list": [
+      "/images/asp_images/cigarette-cassia.jpg",
+      "/images/asp_images/cynamon-kora.jpg"
+    ],
     "related_list": [
       "spring_star_anise",
       "autumn_star_anise"

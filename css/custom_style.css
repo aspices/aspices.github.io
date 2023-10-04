@@ -222,6 +222,7 @@
     font-size: var(--product-page-font-size-px);
     text-transform: var(--product-page-font-case);
     font-weight: var(--product-page-font-weight);
+    -webkit-text-stroke: 1px #000 !important;
 }
 
 .product-details--form-wrapper {
@@ -255,9 +256,8 @@
     padding: 0;
 }
 
-#AddToCartForm .product-sub-label, #AddToCartForm .selector-wrapper label {
+#AddToCartForm .product-sub-label {
     font-size: 11px;
-    text-transform: uppercase;
     color: var(--text-color);
     margin: 20px 0 10px 0;
     display: inline-block;

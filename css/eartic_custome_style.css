@@ -758,6 +758,24 @@ li.dropdown:hover > .main_nav_ul {
     transition: all 0.4s;
 }
 
+.eartic_btn_primary, .eartic_btn_primary:hover {
+    border: 1px solid #946529;
+    background-color: #946529;
+    padding: 6px 20px;
+    color: #FFF;
+    border-radius: 0;
+    transition: all 0.4s;
+}
+
+.eartic_btn_outline, .eartic_btn_outline:hover {
+    border: 1px solid #946529;
+    background-color: #FFF;
+    padding: 6px 20px;
+    color: #946529;
+    border-radius: 0;
+    transition: all 0.4s;
+}
+
 .sub_heading {
     font-weight: bolder;
     margin-top: 10px;
@@ -1775,4 +1793,9 @@ li.dropdown:hover > .main_nav_ul {
     .products-item {
         padding: 1rem 38px !important;
     }
+}
+
+.product-preview-image {
+    width: 100px;
+    height: 100px;
 }
