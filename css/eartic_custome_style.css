@@ -1767,6 +1767,12 @@ li.dropdown:hover > .main_nav_ul {
     width: 40px;
 }
 
-.products-section {
+.products-nav-section {
     padding-top: 10px;
+}
+
+@media (min-width: 992px) {
+    .products-item {
+        padding: 1rem 38px !important;
+    }
 }

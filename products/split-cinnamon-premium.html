@@ -151,8 +151,8 @@
   </div>
 </div>
 
-<!--PRODUCTS SECTION-->
-<div id="mid" class="products-section container-fluid pb-5 mt-5">
+<!--PRODUCTS NAV SECTION-->
+<div id="mid" class="products-nav-section container-fluid pb-5 mt-lg-5">
   <div class="row justify-content-md-center pt-5">
     <div class="col-md-12 col-lg-12">
       <!--breadcrumb-->
@@ -273,23 +273,18 @@
           <h1 itemprop="name" class="product-details-product-title">Organic Bay Leaf - 2 oz French Jar - 5444</h1>
           <div itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer"
                class="product-details--form-wrapper product-details--form-wrapper---in-stock">
-            <meta itemprop="priceCurrency" content="USD">
-            <meta itemprop="url" content="https://spices.com/products/the-spice-lab-usda-organic-spices-french-jar">
-            <link itemprop="availability" href="http://schema.org/InStock">
             <div class="form-vertical">
               <form method="post" action="/cart/add" id="AddToCartForm" accept-charset="UTF-8"
-                    enctype="multipart/form-data" class="shopify-product-form"><input type="hidden" name="form_type"
-                                                                                      value="product"><input
-                  type="hidden"
-                  name="utf8"
-                  value="✓">
-                <select name="id" id="productSelect-template--product" data-section="template--product"
-                        autocomplete="off"
-                        class="product-single__variants original-select no-js">
+                    enctype="multipart/form-data" class="shopify-product-form">
+                <input type="hidden" name="form_type" value="product">
+                <input type="hidden" name="utf8" value="✓">
+                <select
+                    name="id" id="productSelect-template--product" data-section="template--product"
+                    autocomplete="off" class="product-single__variants original-select no-js">
                   <option selected="selected" value="40061085286559">Default Title - $7.95 USD</option>
                 </select>
-                <div class="swatches-wrapper col-md-6 col-sm-12 col-xs-12"><label for="Quantity"
-                                                                                  class="quantity-selector product-sub-label">Quantity</label>
+                <div class="swatches-wrapper col-md-6 col-sm-12 col-xs-12">
+                  <label for="Quantity" class="quantity-selector product-sub-label">Quantity</label>
                   <div class="js-qty">
                     <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text"><i
                         aria-hidden="true" class="fa fa-minus"></i> <span class="fallback-text">−</span></button>
@@ -301,14 +296,15 @@
                 </div>
                 <span class="visually-hidden">Sale price</span>
                 <p id="ComparePrice"><span class="money">$11.95</span></p>
-                <li class="product-page--pricing--discount"><span class="variant-percentage-wrapper">
-                              -<span class="variant-percentage">33%</span></span></li>
-                <span class="visually-hidden">Regular price</span> <span id="ProductPrice" itemprop="price"
-                                                                         content="7.95"
-                                                                         class="h2"><span
-                    class="money">$7.95</span></span>
-                <div class="product-page__policies rte"><a href="/policies/shipping-policy">Shipping</a> calculated at
-                  checkout.
+                <li class="product-page--pricing--discount">
+                  <span class="variant-percentage-wrapper">-<span class="variant-percentage">33%</span></span>
+                </li>
+                <span class="visually-hidden">Regular price</span>
+                <span id="ProductPrice" itemprop="price" content="7.95" class="h2">
+                  <span class="money">$7.95</span>
+                </span>
+                <div class="product-page__policies rte">
+                  <a href="/policies/shipping-policy">Shipping</a> calculated at checkout.
                 </div>
                 <div class="paymentButtonsWrapper">
                   <button type="submit" name="add" id="AddToCart" class="btn eartic_btn"><span
@@ -361,15 +357,18 @@
       </h2>
       <div class="row">
         <div class="col-12 col-md-4 p-0 p-lg-3" data-aos="fade-up" data-aos-duration="1200">
-          <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto" alt="Cloves">
+          <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto"
+               alt="Cloves">
           <p class="gen_para_black text-center mt-3">Split Cinnamon Premium</p>
         </div>
         <div class="col-12 col-md-4 p-0 p-lg-3" data-aos="fade-up" data-aos-duration="1200">
-          <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto" alt="Cloves">
+          <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto"
+               alt="Cloves">
           <p class="gen_para_black text-center mt-3">Split Cinnamon</p>
         </div>
         <div class="col-12 col-md-4 p-0 p-lg-3" data-aos="fade-up" data-aos-duration="1200">
-          <img src="/images/asp_images/cigarette-cassia.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto" alt="Cloves">
+          <img src="/images/asp_images/cigarette-cassia.jpg"
+               class="img-fluid rounded-circle products_img d-flex mx-auto" alt="Cloves">
           <p class="gen_para_black text-center mt-3">Cigarette Cassia Premium</p>
         </div>
       </div>
