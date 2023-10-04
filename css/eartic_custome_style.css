@@ -1210,7 +1210,7 @@ li.dropdown:hover > .main_nav_ul {
     color: #1F1F1F;
 }
 
-.site-map a:hover {
+.site-map a:hover, .scocial_sec a {
     color: #946529;
 }
 
@@ -1233,7 +1233,7 @@ li.dropdown:hover > .main_nav_ul {
     z-index: 1;
     top: 0;
     right: 0;
-    background-color: #0085BB;
+    background-color: #946529;
     overflow-y: hidden;
     overflow-x: hidden;
     transition: 0.5s;
@@ -1404,7 +1404,7 @@ li.dropdown:hover > .main_nav_ul {
     }
 
     .scocial_icons {
-        color: #0085bb;
+        color: #946529;
         transition: all 0.4s;
         font-size: 23px !important;;
     }

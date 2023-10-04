@@ -1,0 +1,47 @@
+{
+  "split_cinnamon_premium": {
+    "title": "Split Cinnamon Premium",
+    "image_url":"/images/asp_images/spit-cinnamon.jpg",
+    "url":"/products/split-cinnamon-premium"
+  },
+  "split_cinnamon": {
+    "title": "Split Cinnamon",
+    "image_url": "/images/asp_images/spit-cinnamon.jpg",
+    "url": "/products/split-cinnamon"
+  },
+  "cigarette_cassia_premium": {
+    "title": "Cigarette Cassia Premium",
+    "image_url": "/images/asp_images/cigarette-cassia.jpg",
+    "url": "/products/cigarette-cassia-premium"
+  },
+  "cigarette_cassia": {
+    "title": "Cigarette Cassia",
+    "image_url": "/images/asp_images/cigarette-cassia.jpg",
+    "url": "/products/cigarette-cassia"
+  },
+  "broken_cinnamon": {
+    "title": "Broken Cinnamon",
+    "image_url": "/images/asp_images/cynamon-kora.jpg",
+    "url": "/products/broken-cinnamon"
+  },
+  "cinnamon_powder": {
+    "title": "Cinnamon Powder",
+    "image_url": "/images/asp_images/cinnamon_powder.png",
+    "url": "/products/cinnamon-powder"
+  },
+  "autumn_star_anise": {
+    "title": "Autumn Star Anise",
+    "image_url": "/images/asp_images/autumn_anise.jpg",
+    "url": "/products/autumn-star-anise"
+  },
+  "spring_star_anise": {
+    "title": "Spring Star Anise",
+    "image_url": "/images/asp_images/spring_anise.jpg",
+    "url": "/products/spring-star-anise"
+  },
+  "broken_star_anise": {
+    "title": "Broken Star Anise",
+    "image_url": "/images/asp_images/broken-star-anise.jpg",
+    "url": "/products/broken-star-anise"
+  }
+}
