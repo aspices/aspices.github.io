@@ -32,9 +32,14 @@ def gen_product_list():
 def gen_product_detail():
     template = env.get_template("product-detail.html")
 
-    for (k, v) in product_list.items():
-        out_str = template.render(data=v)
-        f = open('../products/{}.html'.format(v.get('key')), 'w')
+    for (product_key, product) in product_list.items():
+        related_list = []
+        for related_key in product.get('related_list'):
+            related_list.append(product_list[related_key])
+        out_str = template.render(
+            current_product=product, related_list=related_list
+        )
+        f = open('../products/{}.html'.format(product.get('key')), 'w')
         f.write(out_str)
         f.close()
 

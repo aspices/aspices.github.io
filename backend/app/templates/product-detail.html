@@ -168,7 +168,7 @@
 </div>
 
 <!--MAIN SEC-->
-<div class="container-fluid pb-5">
+<div class="container-fluid pb-lg-5">
   <div data-section-id="template--product"
        class="grid product-single product-sticky-wrapper variant-swatches-enabled">
     <div class="grid__item large--six-twelfths context mobile--no-top-margin">
@@ -350,33 +350,22 @@
   </div>
 </div>
 <div class="container-fluid pb-5">
-  <div class="row justify-content-md-center pt-5">
+  <div class="row justify-content-md-center pt-lg-5">
     <div class="col-12 col-lg-10">
       <h2 class="gen_titt_black text-center mt-5 mb-5" data-aos="fade-up" data-aos-duration="1000">
         Related products
       </h2>
       <div class="row">
+        {% for value in related_list %}
         <div class="products-item col-12 col-md-4 p-0" data-aos="fade-up" data-aos-duration="1200">
-          <a href="/products/split-cinnamon-premium">
-            <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto"
-                 alt="Cloves">
+          <a href="{{ value.url }}">
+            <img src="{{ value.image_url }}"
+                 class="img-fluid rounded-circle products_img d-flex mx-auto"
+                 alt="{{ value.title }}">
           </a>
-          <p class="gen_para_black text-center mt-3">Split Cinnamon Premium</p>
+          <p class="gen_para_black text-center mt-3">{{ value.title }}</p>
         </div>
-        <div class="products-item col-12 col-md-4 p-0" data-aos="fade-up" data-aos-duration="1200">
-          <a href="/products/split-cinnamon-premium">
-            <img src="/images/asp_images/spit-cinnamon.jpg" class="img-fluid rounded-circle products_img d-flex mx-auto"
-                 alt="Cloves">
-          </a>
-          <p class="gen_para_black text-center mt-3">Split Cinnamon</p>
-        </div>
-        <div class="products-item col-12 col-md-4 p-0" data-aos="fade-up" data-aos-duration="1200">
-          <a href="/products/split-cinnamon-premium">
-            <img src="/images/asp_images/cigarette-cassia.jpg"
-                 class="img-fluid rounded-circle products_img d-flex mx-auto" alt="Cloves">
-          </a>
-          <p class="gen_para_black text-center mt-3">Cigarette Cassia Premium</p>
-        </div>
+        {% endfor %}
       </div>
     </div>
   </div>
