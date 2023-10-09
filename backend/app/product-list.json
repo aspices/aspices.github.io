@@ -8,7 +8,7 @@
       "/images/asp_images/stick-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "split",
+    "type": "cassia",
     "info": {
       "body": "",
       "params": [
@@ -30,7 +30,7 @@
       "/images/asp_images/stick-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "split",
+    "type": "cassia",
     "info": {
       "body": "",
       "params": [
@@ -51,7 +51,7 @@
       "/images/asp_images/broken-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "stick",
+    "type": "cassia",
     "info": {
       "body": "Lengh: cutting from 2cm to 50cm",
       "params": [
@@ -72,7 +72,7 @@
       "/images/asp_images/broken-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "stick",
+    "type": "cassia",
     "info": {
       "body": "Lengh: cutting from 2cm to 50cm",
       "params": [
@@ -92,7 +92,7 @@
       "/images/asp_images/stick-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "broken",
+    "type": "cassia",
     "info": {
       "body": "",
       "params": [
@@ -116,7 +116,7 @@
       "/images/asp_images/stick-cassia.jpg",
       "/images/asp_images/broken-cassia.jpg"
     ],
-    "type": "broken",
+    "type": "cassia",
     "info": {
       "body": "Oil content (from 0.5% to 5%)\n\n",
       "params": [
