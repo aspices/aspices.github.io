@@ -34,8 +34,9 @@ def gen_product_detail():
 
     for (product_key, product) in product_list.items():
         related_list = []
-        for related_key in product.get('related_list'):
-            related_list.append(product_list[related_key])
+        for _product in product_list.values():
+            if _product.get('type') == product.get('type'):
+                related_list.append(_product)
         out_str = template.render(
             current_product=product, related_list=related_list
         )
