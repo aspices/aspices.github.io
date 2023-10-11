@@ -6,14 +6,13 @@
     "key": "whole-tube-cassia-premium",
     "image_list": [
     ],
-    "type": "cassia",
+    "type": "split-cassia",
     "info": {
       "body": "",
       "params": [
       ],
       "packing": [
-        "Carton box Net 7/10 kgs",
-        "With or without pressing",
+        "Carton box Net 10/20 kgs",
         "Small packing if required"
       ],
       "premium": "CINNAMON CONTAINS HIGH ESSENTIAL OIL CONTENT OVER 4%: different from regular cinnamon containing 1-1.5% essential oil content on the market. This premium spice will give you a feeling that I believe you will never forget. (only added for Premium products)"
@@ -26,37 +25,16 @@
     "key": "whole-tube-cassia",
     "image_list": [
     ],
-    "type": "cassia",
+    "type": "split-cassia",
     "info": {
       "body": "",
       "params": [
       ],
       "packing": [
-        "Carton box Net 7/10 kgs",
-        "With or without pressing",
+        "Carton box Net 10/20 kgs",
         "Small packing if required"
       ],
-      "premium": "CINNAMON CONTAINS HIGH ESSENTIAL OIL CONTENT OVER 4%: different from regular cinnamon containing 1-1.5% essential oil content on the market. This premium spice will give you a feeling that I believe you will never forget. (only added for Premium products)"
-    }
-  },
-  "split_cassia_premium": {
-    "title": "Split Cassia Premium",
-    "image_url": "/images/asp_images/split-cassia.jpg",
-    "url": "/products/split-cassia-premium",
-    "key": "split-cassia-premium",
-    "image_list": [
-    ],
-    "type": "cassia",
-    "info": {
-      "body": "",
-      "params": [
-      ],
-      "packing": [
-        "Carton box Net 7/10 kgs",
-        "With or without pressing",
-        "Small packing if required"
-      ],
-      "premium": "CINNAMON CONTAINS HIGH ESSENTIAL OIL CONTENT OVER 4%: different from regular cinnamon containing 1-1.5% essential oil content on the market. This premium spice will give you a feeling that I believe you will never forget. (only added for Premium products)"
+      "premium": ""
     }
   },
   "split_cassia": {
@@ -66,7 +44,7 @@
     "key": "split-cassia",
     "image_list": [
     ],
-    "type": "cassia",
+    "type": "split-cassia",
     "info": {
       "body": "",
       "params": [
