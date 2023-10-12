@@ -331,7 +331,7 @@ li.dropdown:hover > .main_nav_ul {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../images/hero_img9.jpg");
+    background-image: url("../images/asp_images/im4774946591665_2fa8f8057db9115d4e8edd6b87a43f7d.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -434,7 +434,7 @@ li.dropdown:hover > .main_nav_ul {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../images/hero_img10.jpg");
+    background-image: url("../videos/vid_1314617078_b.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1290,7 +1290,7 @@ li.dropdown:hover > .main_nav_ul {
 }
 
 .menu_text_mob {
-    color: #0085b3 !important;
+    color: #FFFFFF !important;
     font-size: 18px;
     margin-top: 20px;
     transition: all 0.4s;
@@ -1791,7 +1791,7 @@ li.dropdown:hover > .main_nav_ul {
 
 @media (min-width: 992px) {
     .products-item {
-        padding: 1rem 18px !important;
+        padding: 1rem 0 1rem 30px !important;
     }
 }
 
@@ -1824,7 +1824,7 @@ li.dropdown:hover > .main_nav_ul {
 }
 
 .sale-badge {
-    background: #f26c4f;
+    background: #e91e63;
     color: white;
     font-size: 11px;
     font-weight: 700;

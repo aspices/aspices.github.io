@@ -103,9 +103,9 @@
           <div class="navbar">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item menu_items pl-2 pr-2 mt-1">
-                <a class="menu_text_mob pr-2" href="tel:+84986352351">
+                <a class="menu_text_mob pr-2" href="tel:+84866907828">
                   <i class="fa fa-phone"></i>
-                  <span class="ml-1">Mr Edgar: (+84) 986.352.351</span>
+                  <span class="ml-1">Mr Edgar: (+84) 866907828</span>
                 </a>
               </li>
             </ul>
@@ -142,9 +142,11 @@
           <a class="menu_items " href="/news-events">News & Events</a>
           <a class="menu_items " href="/contact">Contact</a>
 
-          <div class="d-flex">
-            <a class="menu_items" href="#"><i class="fa fa-instagram"></i></a>
-            <a class="menu_items" href="#" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+          <div class="menu_items mt-1">
+            <a class="menu_text_mob mobile_menu pr-2" href="tel:+84866907828">
+              <i class="fa fa-phone"></i>
+              <span class="ml-1">(+84) 866907828</span>
+            </a>
           </div>
 
         </div>
@@ -518,14 +520,14 @@
 
 <div class="container-fluid pb-5">
   <div class="row justify-content-md-center pt-5">
-    <div class="col-12 col-lg-10">
+    <div class="col-12 col-lg-12">
       <h2 class="gen_titt_black text-center mt-5 mb-5" data-aos="fade-up" data-aos-duration="1000">
         Vietnam Products
       </h2>
-      <div class="row justify-content-center">
+      <div class="row justify-content-center" style="padding-right: 30px;">
         {% for key, value in data.items() %}
         <div class="products-item col-12 col-md-3 p-0" data-aos="fade-up" data-aos-duration="1200">
-          <div>
+          <div style="position:relative;">
             {% if value.info.premium %}
             <div class="sale-badge badge" style="top: 0px; left: 0px;">Premium</div>
             {% endif %}
@@ -592,7 +594,7 @@
     </div>
   </div>
 </div>
-<a href="https://api.whatsapp.com/send?phone=84986352351&text=Hello"
+<a href="https://api.whatsapp.com/send?phone=84866907828&text=Hello"
    class="wa-float" target="_blank">
   <i class="fa fa-whatsapp wa-float-icon"></i>
 </a>
