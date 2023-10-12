@@ -1,6 +1,6 @@
 {
   "whole_tube_cassia_premium": {
-    "title": "Whole Cassia Premium",
+    "title": "Whole Tube Cassia Premium",
     "image_url": "/images/asp_images/whole-tube-cassia.jpg",
     "url": "/products/whole-tube-cassia-premium",
     "key": "whole-tube-cassia-premium",
@@ -19,7 +19,7 @@
     }
   },
   "whole_tube_cassia": {
-    "title": "Whole Cassia",
+    "title": "Whole Tube Cassia",
     "image_url": "/images/asp_images/whole-tube-cassia.jpg",
     "url": "/products/whole-tube-cassia",
     "key": "whole-tube-cassia",
