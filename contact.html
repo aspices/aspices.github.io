@@ -194,16 +194,13 @@
       <div class="col-12 col-lg pt-4">
         <h2 class="gen_titt_black text-left mb-5">Contact Us</h2>
         <form enctype="multipart/form-data" id="contactUsForm" class="form-horizontal">
-          <label class="label">First Name*</label>
+          <label class="label">Full Name*</label>
           <input type="text" class="form-control eartic_form" placeholder="First name" name="fname">
-          <br/>
-          <label class="label">Last Name*</label>
-          <input type="text" class="form-control eartic_form" placeholder="Last name" name="lname">
           <br/>
           <label class="label">Email Address*</label>
           <input type="email" class="form-control eartic_form" placeholder="Enter a valid email address" name="mail">
           <br/>
-          <label class="label">Mobile Number*</label>
+          <label class="label">Mobile Number</label>
           <input type="number" class="form-control eartic_form" placeholder="0773123123" name="mobile">
           <br/>
           <label class="label">Your Message</label>
@@ -417,18 +414,15 @@
         fname: {
           required: true
         },
-        lname: {
-          required: true
-        },
         mail: {
           required: true,
           email: true,
         },
         mobile: {
-          required: true,
+          required: false,
         },
         msg: {
-          required: true
+          required: false,
         },
 
       },
