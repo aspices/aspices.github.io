@@ -195,7 +195,7 @@
         <h2 class="gen_titt_black text-left mb-5">Contact Us</h2>
         <form enctype="multipart/form-data" id="contactUsForm" class="form-horizontal">
           <label class="label">Full Name*</label>
-          <input type="text" class="form-control eartic_form" placeholder="First name" name="fname">
+          <input type="text" class="form-control eartic_form" placeholder="Full Name" name="fname">
           <br/>
           <label class="label">Email Address*</label>
           <input type="email" class="form-control eartic_form" placeholder="Enter a valid email address" name="mail">
@@ -448,6 +448,7 @@
       //     error.insertAfter(name);
       // },
       submitHandler: function (form, event) {
+        const data = new FormData(event.target);
         formID = "contactUsForm";
         formButton = $("#contactUsBtn");
         button_value = formButton.html();
@@ -459,17 +460,26 @@
 
         $.ajax({
           type: "POST",
-          processData: false,
-          contentType: false,
-          url: '/email/contact-us',
+          // processData: false, contentType: false,
+          url: 'https://cyaspace.com/app/api/meta_data_store/',
+          // url: 'http://localhost:8000/app/api/meta_data_store/',
           headers: {
-            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            // 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+            'Content-Type': 'application/json'
           },
-          data: form_data,
+          data: JSON.stringify({
+            meta_key: 'contact.aspices.org',
+            meta_value: JSON.stringify({
+              fname: data.get('fname'),
+              mail: data.get('mail'),
+              mobile: data.get('mobile'),
+              msg: data.get('msg'),
+            })
+          }),
           success: function (response) {
             console.log(response);
 
-            if (response.success == true) {
+            if (response.id) {
               toastr.success(
                 response.message,
                 "Success"
