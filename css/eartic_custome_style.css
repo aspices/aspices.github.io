@@ -495,7 +495,7 @@ li.dropdown:hover > .main_nav_ul {
 .about_img_2 {
     height: 734px;
     object-fit: cover;
-    object-position: 20% center;
+    object-position: 0 center;
 }
 
 .gen_titt {
