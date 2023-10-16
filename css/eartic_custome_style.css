@@ -1802,8 +1802,6 @@ li.dropdown:hover > .main_nav_ul {
 
 .wa-float {
     position: fixed;
-    width: 150px;
-    height: 40px;
     bottom: 40px;
     right: 40px;
     /*background-color: #25d366;*/
@@ -1814,6 +1812,11 @@ li.dropdown:hover > .main_nav_ul {
     /*box-shadow: 2px 2px 3px #999;*/
     z-index: 9030;
 }
+.wa-float>img {
+    width: 150px;
+    /*height: 40px;*/
+    height: auto;
+}
 
 .wa-float:hover {
     color: white;
@@ -1821,6 +1824,23 @@ li.dropdown:hover > .main_nav_ul {
 
 .wa-float-icon {
     margin-top: 16px;
+}
+
+@media (max-width: 960px) {
+    .wa-float {
+        bottom: 20px;
+        right: 10px;
+    }
+
+    .wa-float > img {
+        width: 120px;
+        height: auto;
+    }
+}
+
+.products-item-container {
+    display: flex;
+    justify-content: center;
 }
 
 .sale-badge {
