@@ -1,10 +1,16 @@
 {
   "whole_tube_cassia_premium": {
     "title": "Whole Tube Cassia Premium",
-    "image_url": "/images/asp_images/whole-tube-cassia.jpg",
+    "image_url": "/images/asp_products/whole-tube-cassia_premium_8_sq.jpg",
     "url": "/products/whole-tube-cassia-premium",
     "key": "whole-tube-cassia-premium",
     "image_list": [
+      "/images/asp_products/whole-tube-cassia_premium_1.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_2.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_3.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_4.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_5.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_6.jpg"
     ],
     "type": "split-cassia",
     "info": {
@@ -20,10 +26,13 @@
   },
   "whole_tube_cassia": {
     "title": "Whole Tube Cassia",
-    "image_url": "/images/asp_images/whole-tube-cassia.jpg",
+    "image_url": "/images/asp_products/whole-tube-cassia_4_sq.jpg",
     "url": "/products/whole-tube-cassia",
     "key": "whole-tube-cassia",
     "image_list": [
+      "/images/asp_products/whole-tube-cassia_1.jpg",
+      "/images/asp_products/whole-tube-cassia_2.jpg",
+      "/images/asp_products/whole-tube-cassia_3.jpg"
     ],
     "type": "split-cassia",
     "info": {
@@ -81,6 +90,12 @@
     "url": "/products/cigarette-cassia",
     "key": "cigarette-cassia",
     "image_list": [
+      "/images/asp_products/cigarette-cassia_1.jpg",
+      "/images/asp_products/cigarette-cassia_2.jpg",
+      "/images/asp_products/cigarette-cassia_3.jpg",
+      "/images/asp_products/cigarette-cassia_4.jpg",
+      "/images/asp_products/cigarette-cassia_5.jpg",
+      "/images/asp_products/cigarette-cassia_6.jpg"
     ],
     "type": "cassia",
     "info": {
@@ -99,6 +114,9 @@
     "url": "/products/broken-cassia",
     "key": "broken-cassia",
     "image_list": [
+      "/images/asp_products/broken-cassia_1.jpg",
+      "/images/asp_products/broken-cassia_2.jpg",
+      "/images/asp_products/broken-cassia_3.jpg"
     ],
     "type": "cassia",
     "info": {
@@ -126,6 +144,8 @@
     "info": {
       "body": "Oil content (from 0.5% to 5%)\n\n",
       "params": [
+        "/images/asp_products/cassia-powder_1.jpg",
+        "/images/asp_products/cassia-powder_2.jpg"
       ],
       "packing": [
         "Kraft paper bag/ PP bag Net 10/25kg with plastic inside",
