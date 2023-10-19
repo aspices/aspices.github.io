@@ -1804,18 +1804,24 @@ li.dropdown:hover > .main_nav_ul {
     position: fixed;
     bottom: 40px;
     right: 40px;
-    /*background-color: #25d366;*/
-    /*color: #FFF;*/
-    /*border-radius: 50px;*/
     text-align: center;
     font-size: 30px;
     /*box-shadow: 2px 2px 3px #999;*/
     z-index: 9030;
+
+    display: inline-flex;
+    background-color: #fcf5eb;
+    padding: 8px 18px;
+    color: #FFF;
+    border-radius: 50px;
 }
-.wa-float>img {
-    width: 150px;
+
+.wa-float img {
+    object-fit: cover;
+    /*width: 120px;*/
     /*height: 40px;*/
-    height: auto;
+    height: 20px;
+    width: auto;
 }
 
 .wa-float:hover {
@@ -1833,8 +1839,10 @@ li.dropdown:hover > .main_nav_ul {
     }
 
     .wa-float > img {
-        width: 120px;
-        height: auto;
+        height: 20px;
+        width: auto;
+        /*width: 120px;*/
+        /*height: auto;*/
     }
 }
 
