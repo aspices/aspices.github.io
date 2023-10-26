@@ -1290,20 +1290,10 @@ li.dropdown:hover > .main_nav_ul {
 }
 
 .menu_text_mob {
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/
     font-size: 18px;
     margin-top: 20px;
-    transition: all 0.4s;
-}
-
-.menu_text_mob:hover {
-    color: #946529 !important;
-    font-size: 18px;
-    margin-top: 20px;
-    transition: all 0.4s;
-}
-
-.menu_text_mob {
+    /*transition: all 0.4s;*/
     text-decoration: none;
     /*font-size: 24px !important;*/
     color: #FFF;
@@ -1312,11 +1302,23 @@ li.dropdown:hover > .main_nav_ul {
 }
 
 .menu_text_mob:hover {
+    color: #946529 !important;
+    font-size: 18px;
+    margin-top: 20px;
+    /*transition: all 0.4s;*/
     text-decoration: none;
     /*font-size: 24px !important;*/
-    color: #FFF;
+    /*color: #FFF;*/
     transition: 0.3s;
     opacity: 1 !important;
+}
+
+.menu_icon_mob {
+    padding: 0.5rem 0;
+    align-items: center;
+    display: flex;
+    margin-top: 0.5rem !important;
+    color: #946529 !important;
 }
 
 .menu_text_act_mob {
