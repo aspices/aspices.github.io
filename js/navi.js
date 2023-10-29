@@ -1,10 +1,10 @@
-    
+
 function closeNav() {
   document.getElementById("myNav").style.width = "0%";
   document.getElementById("example-two").style.visibility = "visible";
 }
 
-   
+
 $(document).ready(function () {
 
   $('.navbar .dropdown-item').on('click', function (e) {
@@ -41,7 +41,7 @@ $(document).ready(function() {
           $('.es_toplast_sec').addClass('position-fixed');
           $('.mobile_menu_bar').addClass('position-fixed');
           $('.mobile_menu_bar').addClass('full_width');
-          
+
       } else {
           $('.es_toplast_sec').removeClass('position-fixed');
           $('.mobile_menu_bar').removeClass('position-fixed');
@@ -73,6 +73,4 @@ window.onload=function(){
 });
 
 
-$('body').scrollspy({ target: '#navbar-example' })
-
-
+// $('body').scrollspy({ target: '#navbar-example' })

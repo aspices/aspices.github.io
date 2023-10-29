@@ -1866,3 +1866,14 @@ li.dropdown:hover > .main_nav_ul {
     top: 0;
     left: 0;
 }
+
+.goog-te-gadget-simple {
+    background-color: white;
+    border: 0;
+    border-radius: 0;
+    white-space: nowrap;
+}
+
+.goog-te-gadget-simple > span > a > span[style] {
+    display: none;
+}
