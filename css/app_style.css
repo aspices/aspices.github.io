@@ -1893,3 +1893,8 @@ li.dropdown:hover > .main_nav_ul {
 .goog-te-gadget img {
     border-radius: 10px !important;
 }
+
+.skiptranslate>iframe {
+    display: none !important;
+}
+
