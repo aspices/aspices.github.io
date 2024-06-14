@@ -1,0 +1,219 @@
+{
+  "whole_tube_cassia_premium": {
+    "title": "Whole Tube Cassia Premium",
+    "image_url": "/images/asp_products/whole-tube-cassia_premium_8_sq.jpg",
+    "url": "/products/whole-tube-cassia-premium",
+    "key": "whole-tube-cassia-premium",
+    "image_list": [
+      "/images/asp_products/whole-tube-cassia_premium_1.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_2.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_3.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_4.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_5.jpg",
+      "/images/asp_products/whole-tube-cassia_premium_6.jpg"
+    ],
+    "type": "split-cassia",
+    "info": {
+      "body": "",
+      "params": [
+      ],
+      "packing": [
+        "Carton box Net 10/20 kgs",
+        "Small packing if required"
+      ],
+      "premium": "CINNAMON CONTAINS HIGH ESSENTIAL OIL CONTENT OVER 4%: different from regular cinnamon containing 1-1.5% essential oil content on the market. This premium spice will give you a feeling that I believe you will never forget. (only added for Premium products)"
+    }
+  },
+  "whole_tube_cassia": {
+    "title": "Whole Tube Cassia",
+    "image_url": "/images/asp_products/whole-tube-cassia_4_sq.jpg",
+    "url": "/products/whole-tube-cassia",
+    "key": "whole-tube-cassia",
+    "image_list": [
+      "/images/asp_products/whole-tube-cassia_1.jpg",
+      "/images/asp_products/whole-tube-cassia_2.jpg",
+      "/images/asp_products/whole-tube-cassia_3.jpg"
+    ],
+    "type": "split-cassia",
+    "info": {
+      "body": "",
+      "params": [
+      ],
+      "packing": [
+        "Carton box Net 10/20 kgs",
+        "Small packing if required"
+      ],
+      "premium": ""
+    }
+  },
+  "split_cassia": {
+    "title": "Split Cassia",
+    "image_url": "/images/asp_images/split-cassia.jpg",
+    "url": "/products/split-cassia",
+    "key": "split-cassia",
+    "image_list": [
+    ],
+    "type": "split-cassia",
+    "info": {
+      "body": "",
+      "params": [
+      ],
+      "packing": [
+        "Carton box Net 7/10 kgs",
+        "With or without pressing",
+        "Small packing if required"
+      ]
+    }
+  },
+  "cigarette_cassia_premium": {
+    "title": "Cigarette Cassia Premium",
+    "image_url": "/images/asp_images/cigarette-cassia.jpg",
+    "url": "/products/cigarette-cassia-premium",
+    "key": "cigarette-cassia-premium",
+    "image_list": [
+    ],
+    "type": "cassia",
+    "info": {
+      "body": "Lengh: cutting from 2cm to 50cm",
+      "params": [
+      ],
+      "packing": [
+        "Small packing (string/mesh bag, plastic bag)",
+        "Carton box/ PP bag Net 5/10/15/20/25 kgs"
+      ],
+      "premium": "CINNAMON CONTAINS HIGH ESSENTIAL OIL CONTENT OVER 4%: different from regular cinnamon containing 1-1.5% essential oil content on the market. This premium spice will give you a feeling that I believe you will never forget. (only added for Premium products)"
+    }
+  },
+  "cigarette_cassia": {
+    "title": "Cigarette Cassia",
+    "image_url": "/images/asp_images/cigarette-cassia.jpg",
+    "url": "/products/cigarette-cassia",
+    "key": "cigarette-cassia",
+    "image_list": [
+      "/images/asp_products/cigarette-cassia_1.jpg",
+      "/images/asp_products/cigarette-cassia_2.jpg",
+      "/images/asp_products/cigarette-cassia_3.jpg",
+      "/images/asp_products/cigarette-cassia_4.jpg",
+      "/images/asp_products/cigarette-cassia_5.jpg",
+      "/images/asp_products/cigarette-cassia_6.jpg"
+    ],
+    "type": "cassia",
+    "info": {
+      "body": "Lengh: cutting from 2cm to 50cm",
+      "params": [
+      ],
+      "packing": [
+        "Small packing (string/mesh bag, plastic bag)",
+        "Carton box/ PP bag Net 5/10/15/20/25 kgs"
+      ]
+    }
+  },
+  "broken_cassia": {
+    "title": "Broken Cassia",
+    "image_url": "/images/asp_images/broken-cassia.jpg",
+    "url": "/products/broken-cassia",
+    "key": "broken-cassia",
+    "image_list": [
+      "/images/asp_products/broken-cassia_1.jpg",
+      "/images/asp_products/broken-cassia_2.jpg",
+      "/images/asp_products/broken-cassia_3.jpg"
+    ],
+    "type": "cassia",
+    "info": {
+      "body": "",
+      "params": [
+        "Broken cassia oil content (from 0.5% to 5% VO)",
+        "Broken cassia premium quality",
+        "Broken cigarette cassia",
+        "Broken cassia Ramulus Cinnamon"
+      ],
+      "packing": [
+        "Carton box/ pp bag Net 10/15/20/25 kgs",
+        "With or without pressing"
+      ]
+    }
+  },
+  "cassia_powder": {
+    "title": "Cassia Powder",
+    "image_url": "/images/asp_images/cassia_powder.png",
+    "url": "/products/cassia-powder",
+    "key": "cassia-powder",
+    "image_list": [
+    ],
+    "type": "cassia",
+    "info": {
+      "body": "Oil content (from 0.5% to 5%)\n\n",
+      "params": [
+        "/images/asp_products/cassia-powder_1.jpg",
+        "/images/asp_products/cassia-powder_2.jpg"
+      ],
+      "packing": [
+        "Kraft paper bag/ PP bag Net 10/25kg with plastic inside",
+        "Small packing if required"
+      ]
+    }
+  },
+  "autumn_star_anise": {
+    "title": "Autumn Star Anise",
+    "image_url": "/images/asp_images/star_anise.jpg",
+    "url": "/products/autumn-star-anise",
+    "key": "autumn-star-anise",
+    "image_list": [
+    ],
+    "type": "anise",
+    "info": {
+      "body": "Whole Star Anise – Autumn crop is nicest flowers of Star Anise in the world. Blooming flowers , pick up by hand with big size, high flavor and nice colour.\n\n",
+      "params": [
+        "Flower size: 2.5cm up (80% up)",
+        "Broken: 7-10% or required",
+        "Moisture: 13.5 % max",
+        "Admixture: 1% max, stemless,"
+      ],
+      "packing": [
+        "Carton box Net 5/10 kgs",
+        "Small packing if required"
+      ]
+    }
+  },
+  "spring_star_anise": {
+    "title": "Spring Star Anise",
+    "image_url": "/images/asp_images/star_anise.jpg",
+    "url": "/products/spring-star-anise",
+    "key": "spring-star-anise",
+    "image_list": [
+    ],
+    "type": "anise",
+    "info": {
+      "body": "Whole Star Anise – Spring harvest has two main qualities. Pick up by hand flowers are called super Spring Star Anise or Tuquy, high flavor and nice colour. Others are called “Canh dan” quality.\n\n",
+      "params": [
+        "Flower size: 2-2.2 cm up (80% up)",
+        "Broken: 7-10% or required",
+        "Moisture: 13.5 % max",
+        "Admixture: 1% max, stemless,"
+      ],
+      "packing": [
+        "Carton box Net 5/10 kgs",
+        "Small packing if required"
+      ]
+    }
+  },
+  "broken_star_anise": {
+    "title": "Broken Star Anise",
+    "image_url": "/images/asp_images/broken_star_anise.jpg",
+    "url": "/products/broken-star-anise",
+    "key": "broken-star-anise",
+    "image_list": [
+    ],
+    "type": "anise",
+    "info": {
+      "body": "Broken pieces of Star Anise of autumn or spring harvest.",
+      "params": [
+        "Moisture: 13.5 % max",
+        "Admixture: 1% max"
+      ],
+      "packing": [
+        "Carton box Net 5/10 kgs or PP bag Net 10/20/25 kgs"
+      ]
+    }
+  }
+}
