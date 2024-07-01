@@ -155,10 +155,14 @@
   },
   "autumn_star_anise": {
     "title": "Autumn Star Anise",
-    "image_url": "/images/asp_images/star_anise.jpg",
+    "image_url": "/images/asp_images/star_anise.png",
     "url": "/products/autumn-star-anise",
     "key": "autumn-star-anise",
     "image_list": [
+      "/images/asp_products/star_anise_1.png",
+      "/images/asp_products/star_anise_2.png",
+      "/images/asp_products/star_anise_3.png",
+      "/images/asp_products/star_anise_4.png"
     ],
     "type": "anise",
     "info": {
@@ -177,10 +181,14 @@
   },
   "spring_star_anise": {
     "title": "Spring Star Anise",
-    "image_url": "/images/asp_images/star_anise.jpg",
+    "image_url": "/images/asp_images/star_anise.png",
     "url": "/products/spring-star-anise",
     "key": "spring-star-anise",
     "image_list": [
+      "/images/asp_products/star_anise_1.png",
+      "/images/asp_products/star_anise_2.png",
+      "/images/asp_products/star_anise_3.png",
+      "/images/asp_products/star_anise_4.png"
     ],
     "type": "anise",
     "info": {
